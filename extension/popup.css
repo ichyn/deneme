@@ -1,0 +1,42 @@
+/**
+ * Created by lil on 23.05.2017.
+ */
+body{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+h2{
+    padding: 0px;
+    margin: 15px 0px 0px 0px;
+}
+.btn {
+    display: flex;
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    cursor: pointer;
+    background-color: #f44336;
+    text-align: center;
+}
+
+.btn:hover {background-color: #da190b;}
+
+.yazi {
+    margin: 2px 2px 2px 10px;
+    color: darkred;
+}
+#sayi {
+
+}
+#blocktext {
+
+}
+#pnl {
+    display: none;
+    padding: 0 0px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+}
+#81c14b

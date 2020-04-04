@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Ek$i Blocker",
+  "version": "0.1",
+  "browser_action": {
+    "default_icon": "anticomar128.png",
+    "default_popup": "popup.html"
+  },
+  "icons": { "16": "anticomar16.png",
+    "48": "anticomar48.png",
+    "128": "anticomar128.png" },
+  "permissions": [
+    "https://raw.githubusercontent.com/",
+    "https://eksisozluk.com/"
+  ]
+}
